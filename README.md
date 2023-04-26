@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Ludwig ✋🏻
+### Olá! Eu sou o Pedro Ludwig! ✋🏻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ludwig/)
 
